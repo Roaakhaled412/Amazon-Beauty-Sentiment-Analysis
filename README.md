@@ -63,6 +63,22 @@ Amazon-Beauty-Sentiment-Analysis/
 4. Run the notebook cells sequentially.
 5. Follow the instructions within each notebook to reproduce the experiments.
 
+## Dataset
+
+This project uses the **All_Beauty** category from the Amazon Reviews'23 dataset, collected by McAuley Lab (2023).
+
+**Dataset Source:** [Amazon Reviews'23](https://amazon-reviews-2023.github.io/)
+
+### Dataset Description
+
+We specifically used customer reviews from the **All_Beauty** category.
+
+The dataset includes:
+- **User Reviews:** Customer ratings, review text, helpfulness votes, and timestamps.
+- **Item Metadata:** Product information and descriptions related to the All_Beauty category.
+
+**Note:** This project focuses exclusively on the All_Beauty reviews category, rather than the entire Amazon Reviews'23 dataset.
+
 ## Author
 
 Roaa Kamel
